@@ -1,3 +1,4 @@
 # Mathematics
 Interesting mathematics files
-Testing 
+Testing/
+Here we test merging from a branch
